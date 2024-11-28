@@ -11,7 +11,7 @@
 
 <h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
 
-<p align="left">
+
 <a href="https://twitter.com/chijid1" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chijid1" height="30" width="40" />
 </a>
