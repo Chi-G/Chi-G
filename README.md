@@ -12,11 +12,8 @@
 <h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
 
 <p>
-  <br />
-  <a href="mailto:yourname@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
-  <br />
-  <a href="https://linkedin.com/in/chijindu-nwokeohuru" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  <br />
+  <a href="mailto:yourname@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a> | 
+  <a href="https://linkedin.com/in/chijindu-nwokeohuru" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
   <a href="https://hashnode.com/@chijid1" target="_blank" rel="noopener noreferrer">Hashnode</a>
 </p>
 
