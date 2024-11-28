@@ -1,23 +1,21 @@
 <h1 align="center">Hi, I'm Chijindu</h1>
 
-<img src="oluwakemi-git-cover.png">
-
-<h3 align="center">I am a solution-oriented and result-driven Software Engineer from Nigeria who combines technical expertise, creativity, collaboration, and a passion for leveraging technology to address real-world challenges.</h3>
+<h3 align="center">I am a solution-focused and results-driven Software Engineer with a strong blend of technical expertise, innovative thinking, and collaborative skills, dedicated to designing and implementing impactful technological solutions for complex challenges.</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=captressketh001&label=Profile%20views&color=0e75b6&style=flat" alt="captressketh001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chijid1&label=Profile%20views&color=0e75b6&style=flat" alt="chijid1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cap_keth" target="blank"><img src="https://img.shields.io/twitter/follow/cap_keth?logo=twitter&style=for-the-badge" alt="cap_keth" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chijid1" target="blank"><img src="https://img.shields.io/twitter/follow/cap_keth?logo=twitter&style=for-the-badge" alt="chijid1" /></a> </p>
 
-<h3 align="left">I'm interested in Job offers, collaboration on projects and contributing to open source</h3>
+<h3 align="left">I am open to exciting job opportunities, project collaborations, and contributing to open-source initiatives.</h3> 
 
-<h3 align="left">If you'd like me to come work on one of your projects, you can reach me on:</h3>
+<h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
 
 <p align="left">
-<a href="https://twitter.com/cap_keth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cap_keth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwakemi-omoyeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwakemi omoyeni" height="30" width="40" /></a>
-<a href="https://hashnode.com/@captressketh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@captressketh001" height="30" width="40" /></a>
+<a href="https://twitter.com/chijid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cap_keth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chijindu-nwokeohuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chijindu nwokeohuru" height="30" width="40" /></a>
+<a href="https://hashnode.com/@chijid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chijid1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
