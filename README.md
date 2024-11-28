@@ -19,10 +19,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
   </a>
   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="10" height="10"/> 
+    <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
