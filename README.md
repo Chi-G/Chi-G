@@ -12,7 +12,7 @@
 <h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
 
 <p align="left">
-<a href="https://twitter.com/chijid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cap_keth" height="30" width="40" /></a>
+<a href="https://twitter.com/chijid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chijid1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chijindu-nwokeohuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chijindu nwokeohuru" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chijid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chijid1" height="30" width="40" /></a>
 </p>
