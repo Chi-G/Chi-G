@@ -4,7 +4,6 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chijid1&color=blue)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chijid1&label=Profile%20views&color=0e75b6&style=flat" alt="chijid1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chijid1" target="blank"><img src="https://img.shields.io/twitter/follow/cap_keth?logo=twitter&style=for-the-badge" alt="chijid1" /></a> </p>
 
