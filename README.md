@@ -13,12 +13,13 @@
 
 <p>
   <br />
-  <a href="https://twitter.com/chijid1" target="_blank" rel="noopener noreferrer">Twitter</a>
+  <a href="mailto:yourname@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
   <br />
   <a href="https://linkedin.com/in/chijindu-nwokeohuru" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   <br />
   <a href="https://hashnode.com/@chijid1" target="_blank" rel="noopener noreferrer">Hashnode</a>
 </p>
+
 
 
 
