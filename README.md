@@ -91,18 +91,17 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captressketh001&show_icons=true&locale=en&layout=compact" alt="captressketh001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captressketh001&show_icons=true&locale=en" alt="captressketh001" /></p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omzlaw&theme=vue)
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captressketh001&" alt="captressketh001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chijid1&show_icons=true&locale=en&layout=compact" alt="chijid1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chijid1&show_icons=true&locale=en" alt="chijid1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chijid1&" alt="chijid1" /></p>
 
 
 
-<!--- ![Captress GitHub stats](https://github-readme-stats.vercel.app/api?username=Captressketh001&show_icons=true&theme=radical)
+<!--- ![Captress GitHub stats](https://github-readme-stats.vercel.app/api?username=chijid1&show_icons=true&theme=radical)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Captressketh001&langs_count=10&hide_progress)](https://github.com/anuraghazra/github-readme-stats) --->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chijid1&langs_count=10&hide_progress)](https://github.com/chijid1/github-readme-stats) --->
 
 <!---
-Captressketh001/Captressketh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chijid1/chijid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
