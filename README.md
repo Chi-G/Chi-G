@@ -93,6 +93,7 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captressketh001&show_icons=true&locale=en&layout=compact" alt="captressketh001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captressketh001&show_icons=true&locale=en" alt="captressketh001" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omzlaw&theme=vue)
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captressketh001&" alt="captressketh001" /></p>
 
 
