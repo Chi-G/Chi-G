@@ -12,15 +12,16 @@
 <h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
 
 
-<a href="https://twitter.com/chijid1" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chijid1" height="30" width="40" />
+<a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/chijindu-nwokeohuru" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chijindu nwokeohuru" height="30" width="40" />
+<a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://hashnode.com/@chijid1" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/chijid1/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chijid1" height="30" width="40" />
+<a href="https://hashnode.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" alt="Hashnode" height="30" width="40" />
 </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
