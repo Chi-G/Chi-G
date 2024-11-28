@@ -13,14 +13,15 @@
 
 
 <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40" style="fill: #1DA1F2;" />
 </a>
 <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0077B5;" />
 </a>
 <a href="https://hashnode.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" alt="Hashnode" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" alt="Hashnode" height="30" width="40" style="fill: #2962FF;" />
 </a>
+
 
 
 
