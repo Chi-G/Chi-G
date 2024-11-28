@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chijindu</h1>
+<h1 align="center">Hi there! I'm Chijindu</h1>
 
 <h3 align="center">I am a solution-focused and results-driven Software Engineer with a strong blend of technical expertise, innovative thinking, and collaborative skills, dedicated to designing and implementing impactful technological solutions for complex challenges.</h3>
 
