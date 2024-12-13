@@ -92,7 +92,6 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chi-g&show_icons=true&locale=en&layout=compact" alt="chi-g" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chi-g&show_icons=true&locale=en" alt="chi-g" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chi-g&" alt="chi-g" /></p>
 
 <!--- ![Captress GitHub stats](https://github-readme-stats.vercel.app/api?username=chijid1&show_icons=true&theme=radical)
 
