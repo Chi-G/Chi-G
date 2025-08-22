@@ -9,16 +9,15 @@
 <ul dir="auto">
   <li><strong>📱 Mobile Apps:</strong> Flutter (Dart) — my favorite framework for cross-platform development</li>
   <li><strong>🧰 Full-Stack Systems:</strong> Clean architecture, scalable APIs, secure local-first apps</li>
-  <li><strong>🔒 Privacy-First Tools:</strong> Building apps that respect user data (like LocalSend)</li>
-  <li><strong>📈 EdTech &amp; AI:</strong> Making learning more structured and motivating with Notan</li>
+  <li><strong>🔒 Privacy-First Tools:</strong> Building apps that respect user data</li>
 </ul>
 
 <hr>
 
 <h3 align="left">🛠️ Tech I enjoy working with:</h3>
 <ul dir="auto">
-  <li><strong>Programming Language:</strong> Dart, Kotlin, Rust, Java, TypeScript, JavaScript</li>
-  <li><strong>Backend Framework:</strong> Axum (Rust), Spring (Kotlin)</li>
+  <li><strong>Programming Language:</strong> PHP, Dart, Rust, TypeScript, JavaScript</li>
+  <li><strong>Backend Framework:</strong> Laravel /li>
   <li><strong>Frontend Framework:</strong> Vue (TypeScript), React (TypeScript)</li>
   <li><strong>App Framework:</strong> Flutter (Dart)</li>
   <li><strong>Database Engine:</strong> Sqlite, PostgreSQL, MySQL</li>
