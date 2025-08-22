@@ -4,8 +4,6 @@
 
 <hr>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chijid1&color=blue)
-
 <p align="left"> <a href="https://twitter.com/chijid1" target="blank"><img src="https://img.shields.io/twitter/follow/chijid1?logo=twitter&style=for-the-badge" alt="chijid1" /></a> </p>
 
 <h3 align="left">I am open to exciting job opportunities, project collaborations, and contributing to open-source initiatives.</h3> 
