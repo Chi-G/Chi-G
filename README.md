@@ -4,8 +4,6 @@
 
 <hr>
 
-<h3 align="left">I am open to exciting job opportunities, project collaborations, and contributing to open-source initiatives.</h3> 
-
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🧠 What I work on</h3><a id="user-content--what-i-work-on" class="anchor" aria-label="Permalink: 🧠 What I work on" href="#-what-i-work-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <ul dir="auto">
@@ -15,11 +13,7 @@
   <li><strong>📈 EdTech &amp; AI:</strong> Making learning more structured and motivating with Notan</li>
 </ul>
 
-<p>
-  <a href="mailto:chijindu.nwokeohuru@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a> | 
-  <a href="https://linkedin.com/in/chijindu-nwokeohuru" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-  <a href="https://hashnode.com/@chijid1" target="_blank" rel="noopener noreferrer">Hashnode</a>
-</p>
+<hr>
 
 <h3 align="left">🛠️ Tech I enjoy working with:</h3>
 <ul dir="auto">
