@@ -2,6 +2,8 @@
 
 <h3 align="center">I am a solution-focused and results-driven Software Engineer with a strong blend of technical expertise, innovative thinking, and collaborative skills, dedicated to designing and implementing impactful technological solutions for complex challenges.</h3>
 
+<hr>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chijid1&color=blue)
 
 <p align="left"> <a href="https://twitter.com/chijid1" target="blank"><img src="https://img.shields.io/twitter/follow/chijid1?logo=twitter&style=for-the-badge" alt="chijid1" /></a> </p>
