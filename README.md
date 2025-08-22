@@ -1,14 +1,21 @@
-<h1 align="center">Hi there! I'm Chijindu</h1>
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">👋 Hi, I'm Tien Do Nam</h1><a id="user-content--hi-im-tien-do-nam" class="anchor" aria-label="Permalink: 👋 Hi, I'm Chijindu Nwokeohuru" href="#-hi-im-tien-do-nam"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<h3 align="center">I am a solution-focused and results-driven Software Engineer with a strong blend of technical expertise, innovative thinking, and collaborative skills, dedicated to designing and implementing impactful technological solutions for complex challenges.</h3>
+<p dir="auto">I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.</p>
 
 <hr>
 
-<p align="left"> <a href="https://twitter.com/chijid1" target="blank"><img src="https://img.shields.io/twitter/follow/chijid1?logo=twitter&style=for-the-badge" alt="chijid1" /></a> </p>
-
 <h3 align="left">I am open to exciting job opportunities, project collaborations, and contributing to open-source initiatives.</h3> 
 
-<h3 align="left">Feel free to reach out if you'd like me to bring my expertise to your project:</h3>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🧠 What I work on</h3><a id="user-content--what-i-work-on" class="anchor" aria-label="Permalink: 🧠 What I work on" href="#-what-i-work-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🧠 What I work on</h3><a id="user-content--what-i-work-on" class="anchor" aria-label="Permalink: 🧠 What I work on" href="#-what-i-work-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<ul dir="auto">
+  <li><strong>📱 Mobile Apps:</strong> Flutter (Dart) — my favorite framework for cross-platform development</li>
+  <li><strong>🧰 Full-Stack Systems:</strong> Clean architecture, scalable APIs, secure local-first apps</li>
+  <li><strong>🔒 Privacy-First Tools:</strong> Building apps that respect user data (like LocalSend)</li>
+  <li><strong>📈 EdTech &amp; AI:</strong> Making learning more structured and motivating with Notan</li>
+</ul>
 
 <p>
   <a href="mailto:chijindu.nwokeohuru@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a> | 
