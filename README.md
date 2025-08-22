@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<p dir="auto">I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.</p>
+<p dir="auto">I’m passionate about building elegant, fast, and scalable apps from open-source tools to production-ready consumer platforms.</p>
 
 <hr>
 
@@ -23,7 +23,7 @@
 </div>
 
 <ul dir="auto">
-  <li><strong>📱 Mobile Apps:</strong> Flutter (Dart) — my favorite framework for cross-platform development</li>
+  <li><strong>📱 Mobile Apps:</strong> Flutter (Dart), my favorite framework for cross-platform development</li>
   <li><strong>🧰 Full-Stack Systems:</strong> Clean architecture, scalable APIs, secure local-first apps</li>
   <li><strong>🔒 Privacy-First Tools:</strong> Building apps that respect user data</li>
 </ul>
