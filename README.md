@@ -32,11 +32,11 @@
 
 <h3 align="left">🛠️ Tech I enjoy working with:</h3>
 <ul dir="auto">
-  <li><strong>Programming Language:</strong> PHP, Dart, Rust, TypeScript, JavaScript</li>
-  <li><strong>Backend Framework:</strong> Laravel </li>
+  <li><strong>Programming Language:</strong> PHP, Dart, TypeScript, JavaScript</li>
+  <li><strong>Backend Framework:</strong> Laravel, Django, .Net </li>
   <li><strong>Frontend Framework:</strong> Vue (TypeScript), React (TypeScript)</li>
   <li><strong>App Framework:</strong> Flutter (Dart)</li>
-  <li><strong>Database Engine:</strong> Sqlite, PostgreSQL, MySQL</li>
+  <li><strong>Database Engine:</strong> MySQL, PostgreSQL, Sqlite</li>
 </ul>
 
 <!--- ![Captress GitHub stats](https://github-readme-stats.vercel.app/api?username=chijid1&show_icons=true&theme=radical)
